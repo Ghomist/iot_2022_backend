@@ -1,0 +1,8 @@
+# python runtime cache
+__pycache__
+
+# config for vscode
+.vscode
+
+# ignore files
+config.py
